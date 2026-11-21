@@ -1,0 +1,6 @@
+[project]
+name = "compass-datagen"
+version = "0.1.0"
+description = "Synthetic hotel group data for the Compass demo"
+requires-python = ">=3.11"
+dependencies = ["numpy>=2.0", "pandas>=2.2"]
